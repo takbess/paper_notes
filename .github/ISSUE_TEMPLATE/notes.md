@@ -1,14 +1,3 @@
----
-name: notes
-about: summary or/and notes
-title: ''
-labels: ''
-assignees: ''
-
----
-
-<!-- ComputerVisionLaboratory/surveyをベースにした -->
-
 ## 論文をどう見つけたか
 
 ## 概要（基本アイデア）
