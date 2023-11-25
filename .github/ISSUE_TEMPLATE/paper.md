@@ -1,11 +1,4 @@
----
-name: 日本語テンプレート
-about: 論文共有のためのテンプレート
-title: Name of paper
-labels: ''
-assignees: ''
-
----
+<!-- ComputerVisionLaboratory/surveyをベースにした -->
 
 ## 論文の見つけ方
 
